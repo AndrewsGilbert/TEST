@@ -17,3 +17,5 @@ function test2(a,b){
 }
 
 test2(2,3)
+
+let ary = [1,4,5,6]
