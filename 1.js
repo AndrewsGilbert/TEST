@@ -2,6 +2,7 @@ let name = 'Arun'
 
 let lastName = 'Raj'
 
-let fullName = name + lastName
+let fullName = lastName + name
 
-let y = 4
+
+let x = 2
