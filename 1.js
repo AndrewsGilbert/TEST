@@ -2,8 +2,6 @@ let name = 'Arun'
 
 let lastName = 'Raj'
 
-
-
 function test(a,b){
     console.log(a*b)
 }
@@ -16,6 +14,4 @@ function test2(a,b){
     console.log(a-b)
 }
 
-test2(2,3)
-
-let ary = [1,4,5,6]
+test2(10,7)
