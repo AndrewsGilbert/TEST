@@ -17,3 +17,5 @@ function test2(a,b){
 test2(10,7)
 
 var test =1
+
+test = 2
